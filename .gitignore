@@ -1,0 +1,11 @@
+# caches de descripteurs
+*.npz
+# audio et corpus
+patients_chunks/
+androids_corpus/
+*.wav
+# sorties
+iframe_figures/
+*.html
+__pycache__/
+.ipynb_checkpoints/
